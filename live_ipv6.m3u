@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2025-07-23" tvg-logo="https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/SuperMAN.png" group-title="更新日期",2025-07-23
+#EXTINF:-1 tvg-id="1" tvg-name="2025-07-24" tvg-logo="https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/SuperMAN.png" group-title="更新日期",2025-07-24
 https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="大湾区卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/大湾区卫视.png" group-title="广东频道",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8$IPV6•线路1
