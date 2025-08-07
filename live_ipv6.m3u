@@ -17,10 +17,6 @@ http://[2409:8087:1a01:df::4033]:80/TVOD/88888888/224/3221226127/main.m3u8$IPV6�
 http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3u8$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV17" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/CCTV17.png" group-title="央视频道",CCTV17
 http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3u8$IPV6•线路2
-#EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://[2409:8087:1a01:df::4043]:80/TVOD/88888888/224/3221225959/main.m3u8$IPV6•线路1
-#EXTINF:-1 tvg-id="2" tvg-name="浙江卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://[2409:8087:1a01:df::4043]:80/TVOD/88888888/224/3221225959/main.m3u8$IPV6•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/东南卫视.png" group-title="卫视频道",东南卫视
 http://[2409:8087:1a01:df::4035]:80/TVOD/88888888/224/3221225950/main.m3u8$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="东南卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/东南卫视.png" group-title="卫视频道",东南卫视
@@ -33,6 +29,10 @@ http://[2409:8087:1a01:df::4047]:80/TVOD/88888888/224/3221226091/main.m3u8$IPV6�
 http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225974/main.m3u8$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="贵州卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225974/main.m3u8$IPV6•线路2
+#EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/河北卫视.png" group-title="卫视频道",河北卫视
+http://[2409:8087:1a01:df::4035]:80/TVOD/88888888/224/3221225961/main.m3u8$IPV6•线路1
+#EXTINF:-1 tvg-id="2" tvg-name="河北卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/河北卫视.png" group-title="卫视频道",河北卫视
+http://[2409:8087:1a01:df::4035]:80/TVOD/88888888/224/3221225961/main.m3u8$IPV6•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/江西卫视.png" group-title="卫视频道",江西卫视
 http://[2409:8087:1a01:df::4027]:80/TVOD/88888888/224/3221225935/main.m3u8$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="江西卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/江西卫视.png" group-title="卫视频道",江西卫视
@@ -41,3 +41,5 @@ http://[2409:8087:1a01:df::4027]:80/TVOD/88888888/224/3221225935/main.m3u8$IPV6�
 http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="天津卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/天津卫视.png" group-title="卫视频道",天津卫视
 http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8$IPV6•线路2
+#EXTINF:-1 tvg-id="1" tvg-name="黑莓电影" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/黑莓电影.png" group-title="影视频道",黑莓电影
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8$IPV6
