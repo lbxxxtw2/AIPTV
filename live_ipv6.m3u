@@ -41,3 +41,11 @@ http://[2409:8087:1a01:df::4027]:80/TVOD/88888888/224/3221225935/main.m3u8$IPV6�
 http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="天津卫视" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/天津卫视.png" group-title="卫视频道",天津卫视
 http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8$IPV6•线路2
+#EXTINF:-1 tvg-id="1" tvg-name="黑莓动画" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/黑莓动画.png" group-title="少儿频道",黑莓动画
+http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010002/1.m3u8$IPV6•线路1
+#EXTINF:-1 tvg-id="2" tvg-name="黑莓动画" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/黑莓动画.png" group-title="少儿频道",黑莓动画
+http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010002/1.m3u8$IPV6•线路2
+#EXTINF:-1 tvg-id="1" tvg-name="卡酷少儿" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/卡酷少儿.png" group-title="少儿频道",卡酷少儿
+http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010081/1.m3u8$IPV6•线路1
+#EXTINF:-1 tvg-id="2" tvg-name="卡酷少儿" tvg-logo="https://gitee.com/IIII-9306/PAV/raw/master/logos/卡酷少儿.png" group-title="少儿频道",卡酷少儿
+http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010081/1.m3u8$IPV6•线路2
